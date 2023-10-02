@@ -1,3 +1,5 @@
+-[![An image of @iamsammie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsammie)](https://holopin.io/@iamsammie)
+
 - 👋 Hi, I’m @1AmSammi3
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning REACT.JS
