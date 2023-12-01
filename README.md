@@ -2,11 +2,11 @@
 
 <div align="center">
   <h1>💫 About Me:</h1>
-  <p>🔭 I’m currently working on a Hackathon</p>
+  <p>🔭 I’m currently working on a website</p>
   <p>👯 I’m looking to collaborate on Frontend roles</p>
   <p>🌱 I’m currently learning React</p>
   <p>💬 Ask me about HTML CSS AND JAVASCRIPT</p>
-  <p>⚡ Fun fact: I code with a phone 😂</p>
+  <p>⚡ Fun fact: I am an OTAKU 😎</p>
 
   <h2>🌐 Socials:</h2>
   <a href="https://twitter.com/1_Am_Sammie">
